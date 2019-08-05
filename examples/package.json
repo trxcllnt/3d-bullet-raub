@@ -5,6 +5,6 @@
 	"main": "index.js",
 	"dependencies": {
 		"3d-bullet-raub": "https://github.com/node-3d/3d-bullet-raub.git",
-		"3d-core-raub": "https://github.com/node-3d/3d-core-raub.git"
+		"3d-core-raub": "2.1.2"
 	}
 }
